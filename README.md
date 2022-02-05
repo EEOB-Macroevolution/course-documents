@@ -4,3 +4,4 @@
 
 This repository contains documents used for Macroevolution (BIOL 456X/EEOB 565X)
 
+Current version: Spring 2022
